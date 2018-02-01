@@ -1,11 +1,1 @@
-void main() {
-	return 2018;
-}
-void func1goodname() {
-return 111;
-}
-
-void func2() {
-} 
-void func3() {
-}
+aaa
